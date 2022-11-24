@@ -1,4 +1,4 @@
-# Bellabeat: Sleep, Activity and BMI Analysis
+# Bellabeat: Female Beauty Company: Sleep, Activity and BMI Analysis
 
 Proyecto Completo -> ProyectoCompleto.md (En inglés)
 
