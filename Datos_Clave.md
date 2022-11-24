@@ -34,11 +34,10 @@ Todo el análisis en R, paquetes principales: tidyverse, dplyr, tidyr, ggplot2, 
 
 # Lecciones aprendidas y recomendaciones
 
-1. Visualización de datos de múltiples maneras
-2. Abstracción y búsqueda de respuestas a los propietarios
-3. Redacción y documentación de todo el proceso
+1. Recalcular fórmulas omitiendo errores
+2. Visualización de datos de nuevas formas
+3. División por percentiles de los datos
 
 # Limitaciones y qué puede ser mejorado
 
-Me parece un dataset bastante completo, al final descubrí que era de Chicago y se podría realizar una visualización en base a un mapa que mostrara las principales rutas y estaciones más usadas por cada tipo y poder ver claramente mihipótesis y poder potenciar el análisis. También con información de edades se podría saber a quién , cómo y dónde poner anuncios para conseguir más suscriptores.
-Obviamente también tengo limitaciones por ser mi primer proyecto y seguro que lo haré mucho mejor en el futuro si lo intento de nuevo.
+En este dataset tuve el problema contrario, en muchos datos tuve tan sólo la información de 30 usuarios, por lo que las métricas debían de ser mucho más precisas, intentando responder a las preguntas con la máxima información que podía sacar. En algunos aspectos no he podido responder porque carecía de datos, así que mis clonclusiones en ese aspecto han sido que convendría ampliar la base de datos para confirmar nuestras hipótesis.
