@@ -22,14 +22,15 @@ Todo el análisis en R, paquetes principales: tidyverse, dplyr, tidyr, ggplot2, 
 ## Steps:
 <img src="imagenes/steps_by_user.png" width="400"/> <img src="imagenes/total_steps.png" width="400"/>
 
-## Distribución de viajes por mes y tipo de usuario:
-<img src="imagenes/month_minutes_user.png" width="400"/> <img src="imagenes/month_trips_user.png" width="400"/>
+## Sleep and asleep time:
+<img src="imagenes/sleep_hours.png" width="400"/> <img src="imagenes/sleep_vs_asleep.png" width="400"/>
 
-## Distribución de viajes por media de minutos de viaje y tipo de usuario:
-<img src="imagenes/trips_density_users.png" width="400"/>
+## Quality of sleep after each activity:
+<img src="imagenes/quality_sleep.png" width="600"/>
 
-## Principales rutas para realizar el marketing: 
-<img src="imagenes/best_trips_marketing.JPG" width="600"/>
+## Exercise by BMI quantile:
+<img src="imagenes/activity_by_BMI.png" width="400"/> <img src="imagenes/calories_by_BMI.png" width="400"/>
+
 
 # Lecciones aprendidas y recomendaciones
 
